@@ -1,0 +1,16 @@
+.cost-date{
+    display :flex;
+    flex-direction: column;
+    width: 90px;
+    height: 5.5rem;
+    border: 1px solid #ececec;
+    background-color: #2a5b84;
+    color: #fefae1;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+}
+.cost-date__month{
+    font-size: 20px;
+    font-weight: bold;
+}
